@@ -1,0 +1,25 @@
+
+The data in this directory are used by NuDEX [1].
+
+The following files and directories can be found here:
+  - GeneralStatNuclParameters.dat: data file with general parameters used by NuDEX.
+  - ICC_factors.dat: data tables to get internal conversion factors, obtained from BrICC [2].
+  - KnownLevels: nuclear level schemes downloaded from the RIPL-3 data library [3][4].
+  - LevelDensities: nuclear level densities downloaded from the RIPL-3 data library.
+  - PrimaryCaptureGammas*.dat: files containing primpary capture gamma rays, obtained from ENSDF [5].
+  - PSF: photon strength funcion parameters, obtained from RIPL-3 and from the IAEA Photon Strength Function Database [6][7].
+  - SpecialInputs: folder to change the default parameters for the decay of specific nuclei
+
+
+
+[1] E. Mendoza et al., NIMA 1047, 167894 (2023) https://doi.org/10.1016/j.nima.2022.167894
+[2] T. Kibédi et al.,  NIMA 589, 202 (2008), https://doi.org/10.1016/j.nima.2008.02.051
+[3] https://www-nds.iaea.org/RIPL-3/
+[4] R. Capote et al., Nucl. Data Sheets 110 (12) (2009) 3107–3214, http://dx.doi.org/10.1016/j.nds.2009.10.004
+[5] https://www.nndc.bnl.gov/ensdf/
+[6] https://www-nds.iaea.org/PSFdatabase/
+[7] S. Goriely et al., EPJA 55, 172 (2019), https://doi.org/10.1140/epja/i2019-12840-1
+
+
+
+
